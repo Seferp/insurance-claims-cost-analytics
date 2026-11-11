@@ -173,7 +173,7 @@ insurance-claims-cost-analytics/
 │   ├── 01_portfolio_overview.png
 │   ├── 02_claims_cost_analysis.png
 │   └── 03_operational_performance.png
-├── Insurance_Claims_Cost_Analytics.pbix
+├── Insurance Claims & Cost Analytics.pbix
 └── README.md
 ```
 
