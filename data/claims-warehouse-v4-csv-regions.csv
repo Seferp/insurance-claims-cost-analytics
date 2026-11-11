@@ -1,0 +1,11 @@
+id,region_name,average_claim_amount,total_claims,claim_frequency
+1,Appalachian,4520.11,629,3.41
+2,South North,24180.58,534,2.96
+3,Atlantic,2506.45,623,2.65
+4,Northeast West,5037.36,454,2.87
+5,Appalachian,17520.60,438,2.55
+6,Suburban Urban,12103.78,410,2.54
+7,South,27716.36,530,1.90
+8,East Southeast,28666.28,518,3.46
+9,Desert GreatLakes,1163.73,509,1.12
+10,Northwest Rural,10843.03,407,3.27
